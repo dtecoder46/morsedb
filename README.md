@@ -1,6 +1,6 @@
 # MorseDB
 
-![MorseDB logo](logo.jpeg)
+![MorseDB logo](IMG_4666.jpeg)
 
 ## Basic Description
 This product is a relational database with morse code syntax and is run using C#.
